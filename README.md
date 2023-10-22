@@ -1,14 +1,6 @@
-# IT-Company-Website
+# Welcome to Sammy's HTML demo site!
 
-## Overview
+This is a repostitory containing the files for the [demonstration website](https://html.sammy-codes.com) in the DigitalOcean tutorial series [How To Build a Website With HTML](https://www.digitalocean.com/community/tutorial_series/how-to-build-a-website-with-html).
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+You can follow along the tutorial series to recreate these files while learning how to use HTML. Or use these files as a test site for following our tutorial [How To Deploy a Static Website to the Cloud with DigitalOcean’s App Platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-s-app-platform).  
 
-## Website Link
-
-Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
-
-##
-
-__NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.__
